@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Specialization map.Api/Specialization map.Api.csproj" />
+  <Project Path="Specialization map.Core/Specialization map.Core.csproj" />
+  <Project Path="Specialization map.Infrastructure/Specialization map.Infrastructure.csproj" />
+  <Project Path="Specialization map.Services/Specialization map.Services.csproj" />
+</Solution>
